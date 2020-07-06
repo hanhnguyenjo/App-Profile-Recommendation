@@ -1,4 +1,4 @@
-# App-Profile-Recommendation
+# Mobile App Profiles Recommendations
 Find the mobile app profiles that are profitable for the App Store and Google Play market.  
 This is one of my projects on Dataquest.  
 A french version will be available soon.   
